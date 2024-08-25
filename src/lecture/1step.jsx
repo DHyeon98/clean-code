@@ -1,4 +1,4 @@
-const { useState, useEffect } = require("react");
+import { useState, useEffect } from "react";
 
 /**
  * 올바른 초기값 설정
