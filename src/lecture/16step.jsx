@@ -24,6 +24,7 @@ function SomeComponent({ heavyState }) {
 
   return (
     <>
+    <div>수정</div>
       <ChildComponent
         hello="world"
         hello2={propArr.at(0)}
